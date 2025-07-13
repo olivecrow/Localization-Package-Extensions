@@ -1,4 +1,4 @@
-# Localization-Pakcage-Extensions
+# Localization-Package-Extensions
 
 This is an addotional funtionality plugin for Unity's Localization package.
 
